@@ -1,8 +1,8 @@
-# -awesome-microservices-zh
+# awesome-microservices-zh
 
-微服务架构相关原理和技术的精选列表。
+收集微服务架构相关原理和技术的精选文章。
 
-总结：
+投稿：
 ```
 zhangtao@xuexi.cn
 ```
